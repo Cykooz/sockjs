@@ -73,7 +73,7 @@ Supported transports
 Requirements
 ------------
 
-- Python 3.10.0
+- Python 3.11.0
 
 - gunicorn 19.2.0
 

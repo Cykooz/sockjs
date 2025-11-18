@@ -2,6 +2,11 @@
 CHANGES
 =======
 
+0.14.0 (unreleased)
+-------------------
+
+- **Breaking change:** Dropped support of Python 3.10.
+
 0.13.0 (2024-06-13)
 -------------------
 
